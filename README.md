@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Sachchi  
-
 🚀 **Security Specialist | DevSecOps Consultant | Cloud-Native Architect**
 
 I help organizations **secure, automate, and scale** their infrastructure through:
